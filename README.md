@@ -20,3 +20,12 @@ https://hub.docker.com/layers/188775127/richarddaros1/codeeducation-golang/lates
 <hr>
 
 # Challenge Nodejs
+
+### SRC path
+
+./node
+
+### Execute the command line
+
+```docker-compose -f node/docker-compose.yml up --build -d```
+
